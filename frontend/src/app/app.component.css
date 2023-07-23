@@ -1,0 +1,17 @@
+/* video-player.component.css */
+
+.video-container {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+#video-player {
+  width: 100%;
+  outline: none;
+}
+
+.loading-message {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+}
